@@ -1,0 +1,1814 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Daleel - Arabic States for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-28 07:27+0000\n"
+"PO-Revision-Date: 2025-01-28 07:50+0000\n"
+"Last-Translator: عصر نجد\n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.0; wp-6.7.1\n"
+"X-Domain: daleel-arabic-states-for-woocommerce"
+
+#. Description of the plugin
+msgid ""
+"A plugin help you to find the missed Arabic region countries states in "
+"Woocommerce."
+msgstr "إضافة تساعدك على العثور على المدن العربية الغير متوفرة في ووكمورس."
+
+#: includes/countries/sy.php:4
+msgid "A'zaz"
+msgstr "أعزاز"
+
+#: includes/countries/sa.php:3
+msgid "Abha"
+msgstr "أبها"
+
+#: includes/countries/ae.php:3
+msgid "Abu Dhabi"
+msgstr "أبوظبي"
+
+#: includes/countries/ye.php:3
+msgid "Abyan"
+msgstr "أبين"
+
+#: includes/countries/om.php:5
+msgid "Ad Dakhiliyah"
+msgstr "الدهلقية"
+
+#: includes/countries/eh.php:3
+msgid "Ad Dakhla"
+msgstr "الداخلة"
+
+#: includes/countries/om.php:4
+msgid "Ad Dhahirah"
+msgstr "الظاهرة"
+
+#: includes/countries/ye.php:4
+msgid "Aden"
+msgstr "عدن"
+
+#: includes/countries/dz.php:3
+msgid "Adrar"
+msgstr "أدرار"
+
+#: includes/countries/sy.php:3
+msgid "Afrin"
+msgstr "عفرين"
+
+#: includes/countries/ma.php:3
+msgid "Agadir-Ida Ou Tanane"
+msgstr "أغادير أو تطوان"
+
+#: includes/countries/kw.php:3
+msgid "Ahmadi"
+msgstr "الأحمدي"
+
+#: includes/countries/jo.php:4
+msgid "Ajloun"
+msgstr "عجلون"
+
+#: includes/countries/ae.php:4
+msgid "Ajman"
+msgstr "عجمان"
+
+#: includes/countries/lb.php:3
+msgid "Akkar"
+msgstr "عكار"
+
+#: includes/countries/ae.php:5
+msgid "Al Ain"
+msgstr "العين"
+
+#: includes/countries/sa.php:4
+msgid "Al Bahah"
+msgstr "الباحة"
+
+#: includes/countries/ly.php:3
+msgid "Al Bayda"
+msgstr "البيضاء"
+
+#: includes/countries/om.php:3
+msgid "Al Buraimi"
+msgstr "البريمي"
+
+#: includes/countries/sa.php:5
+msgid "Al Dammam"
+msgstr "الدمام"
+
+#: includes/countries/ma.php:25
+msgid "Al Haouz"
+msgstr "الحوز"
+
+#: includes/countries/ma.php:26
+msgid "Al Hoceïma"
+msgstr "الحسيمة"
+
+#: includes/countries/sa.php:6
+msgid "Al Jubail"
+msgstr "الجبيل"
+
+#: includes/countries/sa.php:7
+msgid "Al Khobar"
+msgstr "الخبر"
+
+#: includes/countries/qa.php:3
+msgid "Al Khor"
+msgstr "الخور"
+
+#: includes/countries/sa.php:8
+msgid "Al Majmaah"
+msgstr "الخرج"
+
+#: includes/countries/sa.php:9
+msgid "Al Qatif"
+msgstr "القطيف"
+
+#: includes/countries/ly.php:4
+msgid "Al Qubbah"
+msgstr "القبة"
+
+#: includes/countries/qa.php:4
+msgid "Al Ruwais"
+msgstr "الرويس"
+
+#: includes/countries/qa.php:5
+msgid "Al Shamal"
+msgstr "الشمال"
+
+#: includes/countries/eg.php:26
+msgid "Al Sharqia"
+msgstr "آل الشرقية"
+
+#: includes/countries/ly.php:5
+msgid "Al Wahat"
+msgstr "الواحات"
+
+#: includes/countries/om.php:6
+msgid "Al Wusta"
+msgstr "الوسطى"
+
+#: includes/countries/ly.php:6
+msgid "Al-Abraq"
+msgstr "الأبرق"
+
+#: includes/countries/ye.php:6
+msgid "Al-Bayda"
+msgstr "البيضا"
+
+#: includes/countries/ps.php:3
+msgid "Al-Bireh"
+msgstr "البيرة"
+
+#: includes/countries/ly.php:7
+msgid "Al-Burdi"
+msgstr "البردي"
+
+#: includes/countries/ye.php:7
+msgid "Al-Dhala"
+msgstr "الدالة"
+
+#: includes/countries/ye.php:8
+msgid "Al-Hudaydah"
+msgstr "الحديدة"
+
+#: includes/countries/ye.php:9
+msgid "Al-Jawf"
+msgstr "الجوف"
+
+#: includes/countries/ye.php:10
+msgid "Al-Mahrah"
+msgstr "Al-المهرة"
+
+#: includes/countries/ye.php:11
+msgid "Al-Mahwit"
+msgstr "المحوط"
+
+#: includes/countries/eg.php:3
+msgid "Alexandria"
+msgstr "الاسكندرية"
+
+#: includes/countries/dz.php:18
+msgid "Algiers"
+msgstr "الجزائر"
+
+#: includes/countries/dj.php:3
+msgid "Ali Sabieh"
+msgstr "صبيح"
+
+#: includes/countries/ye.php:5
+msgid "Amana Capital"
+msgstr "الأمانة العاصمة"
+
+#: includes/countries/jo.php:5
+msgid "Amman"
+msgstr "عمان"
+
+#: includes/countries/iq.php:3
+msgid "Anbar"
+msgstr "الأنبار"
+
+#: includes/countries/dz.php:25
+msgid "Annaba"
+msgstr "عنابة"
+
+#: includes/countries/jo.php:3
+msgid "Aqaba"
+msgstr "العقبة"
+
+#: includes/countries/sa.php:10
+msgid "Arar"
+msgstr "عرعر"
+
+#: includes/countries/sy.php:5
+msgid "Arbin"
+msgstr "عريين"
+
+#: includes/countries/tn.php:3
+msgid "Ariana"
+msgstr "أريانة"
+
+#: includes/countries/dj.php:4
+msgid "Arta"
+msgstr "عرته"
+
+#: includes/countries/er.php:3
+msgid "Asmara"
+msgstr "أسمرة"
+
+#: includes/countries/mr.php:3
+msgid "Assaba"
+msgstr "العصابة"
+
+#: includes/countries/eg.php:4
+msgid "Aswan"
+msgstr "أسوان"
+
+#: includes/countries/eg.php:5
+msgid "Asyut"
+msgstr "أسيوط"
+
+#: includes/countries/sd.php:3
+msgid "Atbara"
+msgstr "عطبرة"
+
+#: includes/countries/ma.php:4
+msgid "Azilal"
+msgstr "أزيلال"
+
+#: includes/countries/dz.php:46
+msgid "Aïn Defla"
+msgstr "عين الدفلى"
+
+#: includes/countries/dz.php:48
+msgid "Aïn Témouchent"
+msgstr "عين تموشنت"
+
+#: includes/countries/lb.php:4
+msgid "Baabda"
+msgstr "بعبدا"
+
+#: includes/countries/lb.php:5
+msgid "Baalbek"
+msgstr "بعلبك"
+
+#: includes/countries/sy.php:6
+msgid "Babb"
+msgstr "باب"
+
+#: includes/countries/sd.php:4
+msgid "Babnousa"
+msgstr "برنوسة"
+
+#: includes/countries/iq.php:4
+msgid "Babylon"
+msgstr "بابل"
+
+#: includes/countries/iq.php:5
+msgid "Baghdad"
+msgstr "بغداد"
+
+#: includes/countries/sd.php:5
+msgid "Bahri"
+msgstr "بحري"
+
+#: includes/countries/so.php:10
+msgid "Baidoa"
+msgstr "بيدوا"
+
+#: includes/countries/tn.php:4
+msgid "Bajet"
+msgstr "Bajet"
+
+#: includes/countries/jo.php:6
+msgid "Balqa"
+msgstr "البلقاء"
+
+#: includes/countries/sy.php:8
+msgid "Banash"
+msgstr "بنش"
+
+#: includes/countries/sy.php:7
+msgid "Bani Yas"
+msgstr "بني ياس"
+
+#: includes/countries/er.php:4
+msgid "Barentu"
+msgstr "بارنتو"
+
+#: includes/countries/iq.php:6
+msgid "Basra"
+msgstr "البصرة"
+
+#: includes/countries/dz.php:7
+msgid "Batna"
+msgstr "باتنة"
+
+#: includes/countries/kw.php:4
+msgid "Bayan"
+msgstr "البيان"
+
+#: includes/countries/eg.php:7
+msgid "Beheira"
+msgstr "البحيرة"
+
+#: includes/countries/lb.php:6
+msgid "Beirut"
+msgstr "بيروت"
+
+#: includes/countries/ma.php:7
+msgid "Ben Slimane"
+msgstr "بن سليمان"
+
+#: includes/countries/sy.php:9
+msgid "Beneh"
+msgstr "بنها"
+
+#: includes/countries/tn.php:5
+msgid "Benghazi"
+msgstr "بنغازي"
+
+#: includes/countries/eg.php:8
+msgid "Beni Suef"
+msgstr "بني سويف"
+
+#: includes/countries/lb.php:7
+msgid "Bent Jbeil"
+msgstr "بنت جبيل"
+
+#: includes/countries/so.php:11
+msgid "Berbera"
+msgstr "بربرة"
+
+#: includes/countries/ma.php:6
+msgid "Berkane"
+msgstr "بركان"
+
+#: includes/countries/ma.php:10
+msgid "Berrechid"
+msgstr "برشيد"
+
+#: includes/countries/ps.php:4
+msgid "Bethlehem"
+msgstr "بيت لحم"
+
+#: includes/countries/dz.php:9
+msgid "Biskra"
+msgstr "بسكرة"
+
+#: includes/countries/tn.php:6
+msgid "Bizerte"
+msgstr "بنزرت"
+
+#: includes/countries/dz.php:11
+msgid "Blida"
+msgstr "البليدة"
+
+#: includes/countries/so.php:3
+msgid "Borama"
+msgstr "بوراما"
+
+#: includes/countries/dz.php:52
+msgid "Bordj Badji Mokhtar"
+msgstr "برج باجي مختار"
+
+#: includes/countries/dz.php:36
+msgid "Bordj Bou Arréridj"
+msgstr "برج باجي مختار"
+
+#: includes/countries/so.php:4
+msgid "Bossaso"
+msgstr "بوساسو"
+
+#: includes/countries/dz.php:12
+msgid "Bouira"
+msgstr "البويرة"
+
+#: includes/countries/eh.php:6 includes/countries/ma.php:8
+msgid "Boujdour"
+msgstr "بوجور"
+
+#: includes/countries/ma.php:9
+msgid "Boulemane"
+msgstr "بولملن"
+
+#: includes/countries/dz.php:37
+msgid "Boumerdès"
+msgstr "بومرداس"
+
+#: includes/countries/mr.php:4
+msgid "Brakna"
+msgstr "براكنة"
+
+#: includes/countries/sy.php:10 includes/countries/sa.php:11
+msgid "Buraidah"
+msgstr "بريدة"
+
+#: includes/countries/dz.php:10
+msgid "Béchar"
+msgstr "بشار"
+
+#: includes/countries/dz.php:8
+msgid "Béjaïa"
+msgstr "بجاية"
+
+#: includes/countries/dz.php:54
+msgid "Béni Abbès"
+msgstr "المدية"
+
+#: includes/countries/ma.php:5
+msgid "Béni Mellal"
+msgstr "بني ملال"
+
+#: includes/countries/eg.php:9
+msgid "Cairo"
+msgstr "القاهرة"
+
+#: includes/countries/tn.php:7
+msgid "Capes"
+msgstr "الرؤوس"
+
+#: includes/countries/bh.php:3
+msgid "Capital"
+msgstr "رأس المال"
+
+#: includes/countries/ma.php:11
+msgid "Casablanca"
+msgstr "الدار البيضاء"
+
+#: includes/countries/bh.php:4
+msgid "Central"
+msgstr "المركزية"
+
+#: includes/countries/ma.php:12
+msgid "Chefchaouen"
+msgstr "شفشاون"
+
+#: includes/countries/ma.php:13
+msgid "Chichaoua"
+msgstr "شيشاوة"
+
+#: includes/countries/dz.php:4
+msgid "Chlef"
+msgstr "الشلف"
+
+#: includes/countries/lb.php:8
+msgid "Chouf"
+msgstr "الشوف"
+
+#: includes/countries/ma.php:14
+msgid "Chtouka Aït Baha"
+msgstr "شتوكة آيت الباحة"
+
+#: includes/countries/dz.php:27
+msgid "Constantine"
+msgstr "قسنطينة"
+
+#: includes/countries/eg.php:10
+msgid "Dakahlia"
+msgstr "الدقهلية"
+
+#: includes/countries/mr.php:5
+msgid "Dakhlet Nouadhibou"
+msgstr "دخلة نواذيبو"
+
+#. Name of the plugin
+msgid "Daleel - Arabic States for Woocommerce"
+msgstr "دليل - المدن العربية ووكومرس"
+
+#: daleel-arabic-states-for-woocommerce.php:33
+msgid ""
+"Daleel - Arabic States for WooCommerce requires WooCommerce to be installed "
+"and activated."
+msgstr ""
+"دليل - المدن العربية ووكومرس يتطلب أن يتم تثبيت وتفعيل إضافة WooCommerce."
+
+#: includes/countries/sy.php:11
+msgid "Damascus"
+msgstr "دمشق"
+
+#: includes/countries/sd.php:6
+msgid "Damazin"
+msgstr "الدمازين"
+
+#: includes/countries/eg.php:11
+msgid "Damietta"
+msgstr "دمياط"
+
+#: includes/countries/lb.php:9
+msgid "Damour"
+msgstr "الدامور"
+
+#: includes/countries/sy.php:12
+msgid "Daraa"
+msgstr "درعا"
+
+#: includes/countries/kw.php:5
+msgid "Dasma"
+msgstr "الدسمة"
+
+#: includes/countries/lb.php:10
+msgid "Deir El Qamar"
+msgstr "دير القمر"
+
+#: includes/countries/sy.php:13
+msgid "Deir ez-Zor"
+msgstr "دير الزور"
+
+#: includes/countries/ly.php:8
+msgid "Derna"
+msgstr "درنة"
+
+#: includes/countries/sa.php:12
+msgid "Dhahran"
+msgstr "الظهران"
+
+#: includes/countries/iq.php:7
+msgid "Dhi Qar"
+msgstr "ذي قار"
+
+#: includes/countries/om.php:7
+msgid "Dhofar"
+msgstr "ظفار"
+
+#: includes/countries/dj.php:5
+msgid "Dikhil"
+msgstr "دخيل"
+
+#: includes/countries/iq.php:8
+msgid "Diyala"
+msgstr "ديالى"
+
+#: includes/countries/dz.php:58
+msgid "Djanet"
+msgstr "جنات"
+
+#: includes/countries/dz.php:19
+msgid "Djelfa"
+msgstr "الجلفة"
+
+#: includes/countries/dj.php:6
+msgid "Djibouti City"
+msgstr "مدينة جيبوتي"
+
+#: includes/countries/qa.php:6
+msgid "Doha"
+msgstr "الدوحة"
+
+#: includes/countries/iq.php:9
+msgid "Dohuk"
+msgstr "دهوك"
+
+#: includes/countries/km.php:6
+msgid "Domoni"
+msgstr "دوموني"
+
+#: includes/countries/sd.php:7
+msgid "Dongola"
+msgstr "دنقلا"
+
+#: includes/countries/sy.php:14
+msgid "Douma"
+msgstr "دوما"
+
+#: includes/countries/ma.php:15
+msgid "Driouch"
+msgstr "دروش"
+
+#: includes/countries/ae.php:6
+msgid "Dubai"
+msgstr "دبي"
+
+#: includes/countries/sd.php:8
+msgid "Duiem"
+msgstr "دويم"
+
+#: includes/countries/qa.php:7
+msgid "Dukhan"
+msgstr "دخان"
+
+#: includes/countries/sy.php:15 includes/countries/sy.php:16
+msgid "Duma"
+msgstr "دوما"
+
+#: includes/countries/eh.php:4
+msgid "El Aaiun"
+msgstr "العيون"
+
+#: includes/countries/dz.php:34
+msgid "El Bayadh"
+msgstr "البيض"
+
+#: includes/countries/sd.php:9
+msgid "El Fasher"
+msgstr "الفاشر"
+
+#: includes/countries/sd.php:10
+msgid "El Geneina"
+msgstr "الجنينة"
+
+#: includes/countries/ma.php:24
+msgid "El Hajeb"
+msgstr "الحاجب"
+
+#: includes/countries/ma.php:29
+msgid "El Jadida"
+msgstr "الجديدي"
+
+#: includes/countries/dz.php:60
+msgid "El Meniaa"
+msgstr "المنيعة"
+
+#: includes/countries/dz.php:59
+msgid "El M’Ghaier"
+msgstr "المغير"
+
+#: includes/countries/sd.php:11
+msgid "El Obeid"
+msgstr "الأبيض"
+
+#: includes/countries/dz.php:41
+msgid "El Oued"
+msgstr "الوادي"
+
+#: includes/countries/dz.php:38
+msgid "El Tarf"
+msgstr "الطارف"
+
+#: includes/countries/iq.php:10
+msgid "Erbil"
+msgstr "أربيل"
+
+#: includes/countries/ma.php:17
+msgid "Errachidia"
+msgstr "الرشيدية"
+
+#: includes/countries/ma.php:16
+msgid "Essaouira"
+msgstr "الصويرة"
+
+#: includes/countries/kw.php:6
+msgid "Fahaheel"
+msgstr "الفحيحيل"
+
+#: includes/countries/ma.php:18
+msgid "Fahs-Beni Makada"
+msgstr "فحص بني مكادة"
+
+#: includes/countries/eg.php:12
+msgid "Faiyum"
+msgstr "الفيوم"
+
+#: includes/countries/kw.php:7
+msgid "Farwaniya"
+msgstr "الفروانية"
+
+#: includes/countries/ma.php:20
+msgid "Figuig"
+msgstr "فجيج"
+
+#: includes/countries/kw.php:8
+msgid "Fintas"
+msgstr "سلوى"
+
+#: includes/countries/km.php:3
+msgid "Fomboni"
+msgstr "فومبوني"
+
+#: includes/countries/ma.php:21
+msgid "Fquih Ben Salah"
+msgstr "فكويح بن صلاح"
+
+#: includes/countries/ae.php:7
+msgid "Fujairah"
+msgstr "الفجيرة"
+
+#: includes/countries/ma.php:19
+msgid "Fès-Dar-Dbibegh"
+msgstr "فاس دار دبيباغ"
+
+#: includes/countries/tn.php:8
+msgid "Gafsa"
+msgstr "قفصة"
+
+#: includes/countries/so.php:5
+msgid "Galcaio"
+msgstr "غلصياو"
+
+#: includes/countries/ps.php:5
+msgid "Gaza"
+msgstr "غزة"
+
+#: includes/countries/sd.php:12
+msgid "Gedaref"
+msgstr "القضارف"
+
+#: includes/countries/tn.php:9
+msgid "Gendouba"
+msgstr "غندوبة"
+
+#: includes/countries/eg.php:13
+msgid "Gharbia"
+msgstr "الغربية"
+
+#: includes/countries/dz.php:49
+msgid "Ghardaïa"
+msgstr "غرداية"
+
+#: includes/countries/ly.php:9
+msgid "Ghat"
+msgstr "الغاط"
+
+#: includes/countries/eg.php:14
+msgid "Giza"
+msgstr "الجيزة"
+
+#: includes/countries/mr.php:6
+msgid "Gorgol"
+msgstr "غورغول"
+
+#: includes/countries/dz.php:26
+msgid "Guelma"
+msgstr "قالمة"
+
+#: includes/countries/ma.php:22
+msgid "Guelmim"
+msgstr "كلميم"
+
+#: includes/countries/ma.php:23
+msgid "Guercif"
+msgstr "غورسيف"
+
+#: includes/countries/mr.php:7
+msgid "Guidimaka"
+msgstr "غويديمكة"
+
+#: includes/countries/ye.php:12
+msgid "Hadramaut"
+msgstr "حضرموت"
+
+#: includes/countries/sa.php:13
+msgid "Hafar Al-Batin"
+msgstr "حفر الباطن"
+
+#: includes/countries/sa.php:14
+msgid "Hail"
+msgstr "حائل"
+
+#: includes/countries/ye.php:13
+msgid "Hajja"
+msgstr "حجة"
+
+#: includes/countries/sy.php:17
+msgid "Haleb"
+msgstr "حالب"
+
+#: includes/countries/sd.php:13
+msgid "Halfa Al Jadida"
+msgstr "حلفا الجديدة"
+
+#: includes/countries/sy.php:18
+msgid "Harasta"
+msgstr "حرستا"
+
+#: includes/countries/so.php:6
+msgid "Hargeisa"
+msgstr "هرجيسا"
+
+#: includes/countries/ps.php:6
+msgid "Hebron"
+msgstr "الخليل"
+
+#: includes/countries/mr.php:8
+msgid "Hodh Ech Chargui"
+msgstr "الحوض الغربي"
+
+#: includes/countries/mr.php:9
+msgid "Hodh El Gharbi"
+msgstr "الحوض الغربي"
+
+#: includes/countries/sy.php:19 includes/countries/sy.php:20
+msgid "Homs"
+msgstr "حمص"
+
+#. URI of the plugin
+msgid "https://mokhtarbensaid.com"
+msgstr "https://mokhtarbensaid.com"
+
+#: includes/countries/ye.php:14
+msgid "Ibb"
+msgstr "إب"
+
+#: includes/countries/sy.php:21
+msgid "Idlib"
+msgstr "إدلب"
+
+#: includes/countries/ma.php:27
+msgid "Ifrane"
+msgstr "إفران"
+
+#: includes/countries/dz.php:35
+msgid "Illizi"
+msgstr "اليزي"
+
+#: includes/countries/dz.php:56
+msgid "In Guezzam"
+msgstr "عين قزام"
+
+#: includes/countries/dz.php:55
+msgid "In Salah"
+msgstr "عين صلاح"
+
+#: includes/countries/mr.php:10
+msgid "Inchiri"
+msgstr "إنشيري"
+
+#: includes/countries/ma.php:28
+msgid "Inezgane-Aït Melloul"
+msgstr "انزغان آيت ملول"
+
+#: includes/countries/jo.php:7
+msgid "Irbid"
+msgstr "اربد"
+
+#: includes/countries/eg.php:15
+msgid "Ismailia"
+msgstr "الإسماعيلية"
+
+#: includes/countries/kw.php:9
+msgid "Jabriya"
+msgstr "الجابرية"
+
+#: includes/countries/ly.php:10
+msgid "Jaghbub"
+msgstr "الجغبوب بمدينة"
+
+#: includes/countries/kw.php:10
+msgid "Jahra"
+msgstr "الجهراء"
+
+#: includes/countries/jo.php:8
+msgid "Jarash"
+msgstr "جرش"
+
+#: includes/countries/sy.php:22
+msgid "Jasem"
+msgstr "جاسم"
+
+#: includes/countries/sa.php:15
+msgid "Jazan"
+msgstr "جازان"
+
+#: includes/countries/sa.php:16
+msgid "Jeddah"
+msgstr "جدة"
+
+#: includes/countries/ps.php:7
+msgid "Jenin"
+msgstr "جنين"
+
+#: includes/countries/ma.php:30
+msgid "Jerada"
+msgstr "جرادة"
+
+#: includes/countries/ps.php:12
+msgid "Jericho"
+msgstr "أريحا"
+
+#: includes/countries/ps.php:13
+msgid "Jerusalem"
+msgstr "القدس"
+
+#: includes/countries/lb.php:11
+msgid "Jezzine"
+msgstr "جزين"
+
+#: includes/countries/dz.php:20
+msgid "Jijel"
+msgstr "جيجل"
+
+#: includes/countries/sy.php:23
+msgid "Jisr ash-Shughur"
+msgstr "الشيخ مسكين"
+
+#: includes/countries/lb.php:12
+msgid "Jounieh"
+msgstr "جونية"
+
+#: includes/countries/eg.php:18
+msgid "Kafr El Sheikh"
+msgstr "كفر الشيخ"
+
+#: includes/countries/sy.php:24
+msgid "Kafr Nabl"
+msgstr "كفر نبل"
+
+#: includes/countries/sy.php:25
+msgid "Kafr Zita"
+msgstr "كفر زيتا"
+
+#: includes/countries/ly.php:11
+msgid "Kambut"
+msgstr "كمبوت"
+
+#: includes/countries/jo.php:9
+msgid "Karak"
+msgstr "الكرك"
+
+#: includes/countries/iq.php:11
+msgid "Karbala"
+msgstr "كربلاء"
+
+#: includes/countries/sd.php:16
+msgid "Kassala"
+msgstr "كسلا"
+
+#: includes/countries/tn.php:10
+msgid "Kasserine"
+msgstr "القصرين"
+
+#: includes/countries/tn.php:11
+msgid "Kef"
+msgstr "الكاف"
+
+#: includes/countries/ma.php:32
+msgid "Kelaat Sraghna"
+msgstr "كيلات سراغنا"
+
+#: includes/countries/er.php:5
+msgid "Keren"
+msgstr "كرن"
+
+#: includes/countries/sy.php:26
+msgid "Kfernlah"
+msgstr "كفرنلاح"
+
+#: includes/countries/sa.php:17
+msgid "Khamis Mushait"
+msgstr "خميس مشيط"
+
+#: includes/countries/sd.php:14
+msgid "Khartoum"
+msgstr "الخرطوم"
+
+#: includes/countries/ma.php:33
+msgid "Khemisset"
+msgstr "الخميسات"
+
+#: includes/countries/dz.php:42
+msgid "Khenchela"
+msgstr "خنشلة"
+
+#: includes/countries/ma.php:35
+msgid "Khouribga"
+msgstr "خريبكة"
+
+#: includes/countries/ma.php:34
+msgid "Khénifra"
+msgstr "خنيفرة"
+
+#: includes/countries/iq.php:12
+msgid "Kirkuk"
+msgstr "كركوك"
+
+#: includes/countries/so.php:7
+msgid "Kismayo"
+msgstr "كيسمايو"
+
+#: includes/countries/sd.php:15
+msgid "Kosti"
+msgstr "كوستي"
+
+#: includes/countries/kw.php:11
+msgid "Kuwait City"
+msgstr "مدينة الكويت"
+
+#: includes/countries/ma.php:31
+msgid "Kénitra"
+msgstr "والقنيطرة ،"
+
+#: includes/countries/dz.php:5
+msgid "Laghouat"
+msgstr "الأغواط"
+
+#: includes/countries/ye.php:15
+msgid "Lahj"
+msgstr "لحج"
+
+#: includes/countries/ma.php:37
+msgid "Larache"
+msgstr "العرائش"
+
+#: includes/countries/ma.php:36
+msgid "Laâyoune"
+msgstr "العيون"
+
+#: includes/countries/eg.php:20
+msgid "Luxor"
+msgstr "الأقصر"
+
+#: includes/countries/jo.php:10
+msgid "Ma'an"
+msgstr "معان"
+
+#: includes/countries/ye.php:16
+msgid "Ma'rib"
+msgstr "مأرب"
+
+#: includes/countries/sy.php:28
+msgid "Maarrat Misrin"
+msgstr "معرة مسيرين"
+
+#: includes/countries/jo.php:11
+msgid "Madaba"
+msgstr "مادبا"
+
+#: includes/countries/sa.php:18
+msgid "Madinah"
+msgstr "المدينة المنورة"
+
+#: includes/countries/jo.php:12
+msgid "Mafraq"
+msgstr "المفرق"
+
+#: includes/countries/kw.php:12
+msgid "Mahboula"
+msgstr "المهبولة"
+
+#: includes/countries/tn.php:12
+msgid "Mahdia"
+msgstr "المهدية"
+
+#: includes/countries/sa.php:19
+msgid "Makkah"
+msgstr "مكة المكرمة"
+
+#: includes/countries/sy.php:29
+msgid "Manbij"
+msgstr "منبج"
+
+#: includes/countries/tn.php:13
+msgid "Manouba"
+msgstr "منوبة"
+
+#: includes/countries/ye.php:17
+msgid "Maqab"
+msgstr "مقب"
+
+#: includes/countries/sy.php:27
+msgid "Mare"
+msgstr "مار"
+
+#: includes/countries/ma.php:38
+msgid "Marrakech"
+msgstr "مراكش"
+
+#: includes/countries/ma.php:43
+msgid "Marrakech-Medina"
+msgstr "مراكش-المدينة المنورة"
+
+#: includes/countries/ma.php:44
+msgid "Marrakech-Menara"
+msgstr "مراكش-المنارة"
+
+#: includes/countries/ly.php:12
+msgid "Marsa Susah"
+msgstr "مرسى صباح"
+
+#: includes/countries/ly.php:13
+msgid "Martuba"
+msgstr "مرتوبة"
+
+#: includes/countries/dz.php:31
+msgid "Mascara"
+msgstr "الماسكارا"
+
+#: includes/countries/ly.php:14
+msgid "Massah"
+msgstr "ماسة"
+
+#: includes/countries/er.php:6
+msgid "Massawa"
+msgstr "ماساوا"
+
+#: includes/countries/eg.php:23
+msgid "Matrouh"
+msgstr "مطروح"
+
+#: includes/countries/iq.php:13
+msgid "Maysan"
+msgstr "ميسان"
+
+#: includes/countries/tn.php:14
+msgid "Medenine"
+msgstr "مدنين"
+
+#: includes/countries/ma.php:41
+msgid "Meknès"
+msgstr "مكناس"
+
+#: includes/countries/er.php:7
+msgid "Mendefera"
+msgstr "مينديفيرا"
+
+#: includes/countries/so.php:9
+msgid "Merca"
+msgstr "مركا"
+
+#: includes/countries/qa.php:8
+msgid "Mesaieed"
+msgstr "مسيعيد"
+
+#: includes/countries/ma.php:42
+msgid "Midelt"
+msgstr "ميدلت"
+
+#: includes/countries/dz.php:45
+msgid "Mila"
+msgstr "ميلة"
+
+#: includes/countries/eg.php:21
+msgid "Minya"
+msgstr "المنيا"
+
+#: includes/countries/kw.php:13
+msgid "Mishref"
+msgstr "مشرف"
+
+#: includes/countries/so.php:8
+msgid "Mogadishu"
+msgstr "مقديشو"
+
+#: includes/countries/ma.php:45
+msgid "Mohammedia"
+msgstr "المحمدية"
+
+#: includes/countries/sy.php:30
+msgid "Mokhamr"
+msgstr "مخمر"
+
+#. Author of the plugin
+msgid "Mokhtar Bensaid"
+msgstr "مختار بن سعيد"
+
+#: includes/countries/tn.php:15
+msgid "Monastir"
+msgstr "المنستير"
+
+#: includes/countries/eg.php:22
+msgid "Monufia"
+msgstr "المنوفية"
+
+#: includes/countries/km.php:4
+msgid "Moroni"
+msgstr "موروني"
+
+#: includes/countries/dz.php:29
+msgid "Mostaganem"
+msgstr "مستغانم"
+
+#: includes/countries/ma.php:46
+msgid "Moulay Yacoub"
+msgstr "مولاي يعقوب"
+
+#: includes/countries/bh.php:5
+msgid "Muharraq"
+msgstr "المحرق"
+
+#: includes/countries/om.php:8
+msgid "Musandam"
+msgstr "مسندم"
+
+#: includes/countries/om.php:9
+msgid "Muscat"
+msgstr "مسقط"
+
+#: includes/countries/iq.php:14
+msgid "Muthanna"
+msgstr "المثنى"
+
+#: includes/countries/km.php:5
+msgid "Mutsamudu"
+msgstr "مستمدي"
+
+#: includes/countries/ma.php:40
+msgid "Médiouna"
+msgstr "مديونة"
+
+#: includes/countries/dz.php:28
+msgid "Médéa"
+msgstr "المدية"
+
+#: includes/countries/ma.php:39
+msgid "M’diq-Fnideq"
+msgstr "معدق الفنيدق"
+
+#: includes/countries/dz.php:30
+msgid "M’Sila"
+msgstr "المسيلة"
+
+#: includes/countries/dz.php:47
+msgid "Naama"
+msgstr "النعامة"
+
+#: includes/countries/lb.php:13
+msgid "Nabatieh"
+msgstr "النبطية"
+
+#: includes/countries/tn.php:16
+msgid "Nabeul"
+msgstr "نابل"
+
+#: includes/countries/ps.php:8
+msgid "Nablus"
+msgstr "نابلس"
+
+#: includes/countries/ma.php:47
+msgid "Nador"
+msgstr "الناظور"
+
+#: includes/countries/iq.php:15
+msgid "Najaf"
+msgstr "النجف"
+
+#: includes/countries/sa.php:20
+msgid "Najran"
+msgstr "نجران"
+
+#: includes/countries/eg.php:29
+msgid "New Valley"
+msgstr "الوادي الجديد"
+
+#: includes/countries/iq.php:16
+msgid "Nineveh"
+msgstr "نينوى"
+
+#: includes/countries/om.php:10
+msgid "North Al Batinah"
+msgstr "شمال الباطنة"
+
+#: includes/countries/om.php:11
+msgid "North Ash Sharqiyah"
+msgstr "شمال المنطقة الشرقية"
+
+#: includes/countries/eg.php:27
+msgid "North Sinai"
+msgstr "شمال سيناء"
+
+#: includes/countries/bh.php:6
+msgid "Northern"
+msgstr "الشمالية"
+
+#: includes/countries/ma.php:48
+msgid "Nouaceur"
+msgstr "نواصر"
+
+#: includes/countries/mr.php:11
+msgid "Nouakchott"
+msgstr "نواكشوط"
+
+#: includes/countries/sd.php:17
+msgid "Nyala"
+msgstr "نيالا"
+
+#: includes/countries/sy.php:31
+msgid "Omar"
+msgstr "عمر"
+
+#: includes/countries/ly.php:15
+msgid "Omar Al Kasm"
+msgstr "عمر القاسم"
+
+#: includes/countries/kw.php:14
+msgid "Omariya"
+msgstr "العمرية"
+
+#: includes/countries/dz.php:33
+msgid "Oran"
+msgstr "وهران"
+
+#: includes/countries/dz.php:32
+msgid "Ouargla"
+msgstr "ورقلة"
+
+#: includes/countries/ma.php:49
+msgid "Ouarzazate"
+msgstr "ورزازات"
+
+#: includes/countries/ma.php:50
+msgid "Oued Ed-Dahab"
+msgstr "وادي الذهب"
+
+#: includes/countries/ma.php:52
+msgid "Ouezzane"
+msgstr "وزان"
+
+#: includes/countries/ma.php:51
+msgid "Oujda-Angad"
+msgstr "وجدة أنجاد"
+
+#: includes/countries/dz.php:53
+msgid "Ouled Djellal"
+msgstr "أولاد جلال"
+
+#: includes/countries/dz.php:6
+msgid "Oum El Bouaghi"
+msgstr "أم البواقي"
+
+#: includes/countries/eg.php:24
+msgid "Port Said"
+msgstr "بورسعيد"
+
+#: includes/countries/sd.php:18
+msgid "Port Sudan"
+msgstr "ميناء السودان"
+
+#: includes/countries/iq.php:17
+msgid "Qadisiyah"
+msgstr "القادسية"
+
+#: includes/countries/ps.php:11
+msgid "Qalqilya"
+msgstr "قلقيلية"
+
+#: includes/countries/eg.php:17
+msgid "Qalyubia"
+msgstr "القليوبية"
+
+#: includes/countries/sy.php:32
+msgid "Qara"
+msgstr "القره"
+
+#: includes/countries/eg.php:19
+msgid "Qena"
+msgstr "قنا"
+
+#: includes/countries/sd.php:19
+msgid "Rabak"
+msgstr "ربك"
+
+#: includes/countries/ma.php:53
+msgid "Rabat"
+msgstr "الرباط"
+
+#: includes/countries/kw.php:15
+msgid "Rabiya"
+msgstr "الرابية"
+
+#: includes/countries/ps.php:9
+msgid "Ramallah"
+msgstr "رام الله"
+
+#: includes/countries/ae.php:8
+msgid "Ras Al Khaimah"
+msgstr "رأس الخيمة"
+
+#: includes/countries/eg.php:6
+msgid "Red Sea"
+msgstr "البحر الأحمر"
+
+#: includes/countries/ma.php:54
+msgid "Rehamna"
+msgstr "الرحامنة"
+
+#: includes/countries/dz.php:50
+msgid "Relizane"
+msgstr "غليزان"
+
+#: includes/countries/sa.php:21
+msgid "Riyadh"
+msgstr "الرياض"
+
+#: includes/countries/kw.php:16
+msgid "Rumaithiya"
+msgstr "حطين."
+
+#: includes/countries/kw.php:17
+msgid "Sabah Al-Salem"
+msgstr "صباح السالم"
+
+#: includes/countries/ma.php:55
+msgid "Safi"
+msgstr "آسفي"
+
+#: includes/countries/lb.php:14
+msgid "Saida"
+msgstr "صيدا"
+
+#: includes/countries/ye.php:19
+msgid "Saidah"
+msgstr "سعيدة"
+
+#: includes/countries/sa.php:22
+msgid "Sakaka"
+msgstr "سكاكا"
+
+#: includes/countries/iq.php:18
+msgid "Saladin"
+msgstr "صلاح الدين"
+
+#: includes/countries/sy.php:33
+msgid "Salah"
+msgstr "صلاح"
+
+#: includes/countries/kw.php:18
+msgid "Salmiya"
+msgstr "السالمية"
+
+#: includes/countries/kw.php:19
+msgid "Salwa"
+msgstr "سلوى"
+
+#: includes/countries/ma.php:56
+msgid "Salé"
+msgstr "سلا"
+
+#: includes/countries/ye.php:18
+msgid "Sana'a"
+msgstr "صنعاء"
+
+#: includes/countries/sd.php:22
+msgid "Sawakin"
+msgstr "سواكين"
+
+#: includes/countries/dz.php:22
+msgid "Saïda"
+msgstr "صيدا"
+
+#: includes/countries/ma.php:57
+msgid "Sefrou"
+msgstr "صفرو"
+
+#: includes/countries/sd.php:20
+msgid "Sennar"
+msgstr "سنار"
+
+#: includes/countries/ma.php:58
+msgid "Settat"
+msgstr "سطات"
+
+#: includes/countries/tn.php:17
+msgid "Sfax"
+msgstr "صفاقس"
+
+#: includes/countries/ye.php:20
+msgid "Shabwa"
+msgstr "شبوة"
+
+#: includes/countries/ly.php:16
+msgid "Shahat"
+msgstr "شحات"
+
+#: includes/countries/sy.php:34
+msgid "Shahba"
+msgstr "الشهباء"
+
+#: includes/countries/kw.php:20
+msgid "Shamiya"
+msgstr "الشامية"
+
+#: includes/countries/sd.php:21
+msgid "Shandi"
+msgstr "شندي"
+
+#: includes/countries/ae.php:9
+msgid "Sharjah"
+msgstr "الشارقة"
+
+#: includes/countries/dz.php:24
+msgid "Sidi Bel Abbès"
+msgstr "سيدي بلعباس"
+
+#: includes/countries/ma.php:59
+msgid "Sidi Bennour"
+msgstr "سيدي بنور"
+
+#: includes/countries/tn.php:18
+msgid "Sidi Bouzid"
+msgstr "سيدي بوزيد"
+
+#: includes/countries/ma.php:60
+msgid "Sidi Ifni"
+msgstr "Sidi Ifni"
+
+#: includes/countries/ma.php:61
+msgid "Sidi Kacem"
+msgstr "Sidi Kacem"
+
+#: includes/countries/ma.php:62
+msgid "Sidi Slimane"
+msgstr "سيدي سليمان"
+
+#: includes/countries/ma.php:64
+msgid "Sidi Youssef Ben Ali"
+msgstr "سيدي يوسف بن علي"
+
+#: includes/countries/tn.php:19
+msgid "Siliana"
+msgstr "سليانة"
+
+#: includes/countries/sy.php:35
+msgid "Skeidar"
+msgstr "سكيدار"
+
+#: includes/countries/ma.php:63
+msgid "Skhirat Témara"
+msgstr "الصخيرات تمارا"
+
+#: includes/countries/dz.php:23
+msgid "Skikda"
+msgstr "سكيكدة"
+
+#: includes/countries/eh.php:5
+msgid "Smara"
+msgstr "السمارة"
+
+#: includes/countries/eg.php:25
+msgid "Sohag"
+msgstr "سوهاج"
+
+#: includes/countries/dz.php:43
+msgid "Souk Ahras"
+msgstr "سوق أهراس"
+
+#: includes/countries/lb.php:15
+msgid "Sour"
+msgstr "الحامض"
+
+#: includes/countries/sy.php:36
+msgid "Souran"
+msgstr "صوران"
+
+#: includes/countries/om.php:12
+msgid "South Al Batinah"
+msgstr "جنوب الباطنة"
+
+#: includes/countries/om.php:13
+msgid "South Ash Sharqiyah"
+msgstr "جنوب المنطقة الشرقية"
+
+#: includes/countries/eg.php:16
+msgid "South Sinai"
+msgstr "جنوب سيناء"
+
+#: includes/countries/kw.php:21
+msgid "South Surra"
+msgstr "جنوب السرة"
+
+#: includes/countries/bh.php:7
+msgid "Southern"
+msgstr "جنوب"
+
+#: includes/countries/eg.php:28
+msgid "Suez"
+msgstr "السويس"
+
+#: includes/countries/ye.php:21
+msgid "Sukutra"
+msgstr "سوكوترا"
+
+#: includes/countries/iq.php:19
+msgid "Sulaimaniya"
+msgstr "السليمانية"
+
+#: includes/countries/sa.php:23
+msgid "Sulaymaniyah"
+msgstr "السليمانية"
+
+#: includes/countries/sy.php:37
+msgid "Suwaidan"
+msgstr "سويدان"
+
+#: includes/countries/dz.php:21
+msgid "Sétif"
+msgstr "سطيف"
+
+#: includes/countries/sy.php:38 includes/countries/sd.php:23
+msgid "Tabat"
+msgstr "تبت"
+
+#: includes/countries/sa.php:24
+msgid "Tabuk"
+msgstr "تبوك"
+
+#: includes/countries/dj.php:7
+msgid "Tadjourah"
+msgstr "تجورة"
+
+#: includes/countries/jo.php:13
+msgid "Tafilah"
+msgstr "الطفيلة"
+
+#: includes/countries/mr.php:12
+msgid "Tagant"
+msgstr "تيجان"
+
+#: includes/countries/sa.php:25
+msgid "Taif"
+msgstr "الطائف"
+
+#: includes/countries/ye.php:22
+msgid "Taiz"
+msgstr "تعز"
+
+#: includes/countries/dz.php:13
+msgid "Tamanghasset"
+msgstr "تمنراست"
+
+#: includes/countries/ma.php:75
+msgid "Tan-Tan"
+msgstr "تان تان"
+
+#: includes/countries/ma.php:74
+msgid "Tangier Assilah"
+msgstr "طنجة أصيلة"
+
+#: includes/countries/ma.php:67
+msgid "Taounate"
+msgstr "تاونات"
+
+#: includes/countries/ma.php:66
+msgid "Taourirt"
+msgstr "تاوريرت"
+
+#: includes/countries/ma.php:65
+msgid "Tarfaya (EH-partial)"
+msgstr "تارفايا (EH-الجزئي)"
+
+#: includes/countries/ma.php:68
+msgid "Taroudant"
+msgstr "تارودانت"
+
+#: includes/countries/ma.php:69
+msgid "Tata"
+msgstr "تاتا"
+
+#: includes/countries/tn.php:20
+msgid "Tataouine"
+msgstr "تطاوين"
+
+#: includes/countries/ma.php:70
+msgid "Taza"
+msgstr "تازة"
+
+#: includes/countries/er.php:8
+msgid "Teseney"
+msgstr "تيسيرني"
+
+#: includes/countries/ye.php:23
+msgid "Thamar"
+msgstr "تمار"
+
+#: includes/countries/dz.php:16
+msgid "Tiaret"
+msgstr "تيارت"
+
+#: includes/countries/eh.php:7
+msgid "Tifariti"
+msgstr "تيفاريتي"
+
+#: includes/countries/dz.php:51
+msgid "Timimoun"
+msgstr "تيميمون"
+
+#: includes/countries/dz.php:39
+msgid "Tindouf"
+msgstr "تندوف"
+
+#: includes/countries/ma.php:72
+msgid "Tinghir"
+msgstr "تنغير"
+
+#: includes/countries/dz.php:44
+msgid "Tipasa"
+msgstr "تيبازة"
+
+#: includes/countries/mr.php:13
+msgid "Tiris Zemmour"
+msgstr "تيريس زمور"
+
+#: includes/countries/dz.php:40
+msgid "Tissemsilt"
+msgstr "تيسمسيلت"
+
+#: includes/countries/dz.php:17
+msgid "Tizi Ouzou"
+msgstr "تيزي وزو"
+
+#: includes/countries/ma.php:73
+msgid "Tiznit"
+msgstr "تزنيت"
+
+#: includes/countries/dz.php:15
+msgid "Tlemcen"
+msgstr "تلمسان"
+
+#: includes/countries/dz.php:57
+msgid "Touggourt"
+msgstr "تقرت"
+
+#: includes/countries/tn.php:21
+msgid "Tozeur"
+msgstr "توزر"
+
+#: includes/countries/mr.php:14
+msgid "Trarza"
+msgstr "ترارزا"
+
+#: includes/countries/lb.php:16
+msgid "Tripoli"
+msgstr "طرابلس"
+
+#: includes/countries/ps.php:10
+msgid "Tulkarm"
+msgstr "طولكرم"
+
+#: includes/countries/tn.php:22
+msgid "Tunis"
+msgstr "تونس"
+
+#: includes/countries/dz.php:14
+msgid "Tébessa"
+msgstr "تبسة"
+
+#: includes/countries/ma.php:71
+msgid "Tétouan"
+msgstr "تطوان"
+
+#: includes/countries/ae.php:10
+msgid "Umm Al Quwain"
+msgstr "أم القيوين"
+
+#: includes/countries/sa.php:26
+msgid "Unaizah"
+msgstr "عنيزة"
+
+#: includes/countries/sd.php:24
+msgid "Wad Madani"
+msgstr "ود مدني"
+
+#: includes/countries/sd.php:25
+msgid "Wadi Halfa"
+msgstr "وادي حلفا"
+
+#: includes/countries/kw.php:22
+msgid "Wafra"
+msgstr "الوفرة"
+
+#: includes/countries/iq.php:20
+msgid "Wasit"
+msgstr "واسط"
+
+#: includes/countries/sa.php:27
+msgid "Yanbu"
+msgstr "ينبع"
+
+#: includes/countries/ma.php:76
+msgid "Youssoufia"
+msgstr "اليوسفية"
+
+#: includes/countries/tn.php:23
+msgid "Zaghouan"
+msgstr "زغوان"
+
+#: includes/countries/ma.php:77
+msgid "Zagora"
+msgstr "زاكورة"
+
+#: includes/countries/lb.php:17
+msgid "Zahle"
+msgstr "زحلة"
+
+#: includes/countries/jo.php:14
+msgid "Zarqa"
+msgstr "الزرقاء"
+
+#: includes/countries/kw.php:23
+msgid "Zour"
+msgstr "الزور"
